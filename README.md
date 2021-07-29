@@ -17,7 +17,7 @@ Vacher A., Muzellec B., Rudi A., Bach F., Vialard F.X.: [A Dimension-free Comput
 @article{vacher2021dimension,
   title={A Dimension-free Computational Upper-bound for Smooth Optimal Transport Estimation},
   author={Vacher, Adrien and Muzellec, Boris and Rudi, Alessandro and Bach, Francis and Vialard, Francois-Xavier},
-  booktitle={Conference on Learning Theory},
+  journal={Conference on Learning Theory},
   year={2021}
 }
 ```
